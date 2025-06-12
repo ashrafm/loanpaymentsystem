@@ -22,9 +22,9 @@ java -jar target/lps-0.0.1-SNAPSHOT.jar
 ```
 ![enter image description here](run.jpg)
 
-## Loan API
+# Loan API
 
-# Create a new loan
+## Create a new loan
 
 
 **URL** : `/loans`
@@ -115,8 +115,8 @@ Loan with `id` of '1' and status:
 ```json
 loan not found
 ```
-## Payment API
-# making a payment
+# Payment API
+## making a payment
 
 
 **URL** : `/payments`
