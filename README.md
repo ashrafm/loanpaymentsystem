@@ -66,7 +66,7 @@ Loan with `id` of '1' and status:
 
 ## Error Response
 
-**Condition** : If provided data is invalid, e.g. a name field is too long.
+**Condition** : If provided data is invalid, e.g. term id is not provided
 
 **Code** : `400 BAD REQUEST`
 
