@@ -6,15 +6,20 @@ This is the technical assignment application for the bancx loan payment system, 
 # Compile and run tests
 In order to compile and run you will need maven installed
 
-mvn install
+```code
+mvn install 
+```
 to just run the unit and integration tests standalone
+```code
 mvn test
-
+```
 ## Running
 
 to run the application you
-java -jar target/lps-0.0.1-SNAPSHOT.jar
 
+```code
+java -jar target/lps-0.0.1-SNAPSHOT.jar
+```
 ![enter image description here](run.jpg)
 
 ## Loan API
