@@ -135,6 +135,10 @@ loan not found
   }
 }
 ```
+**curl example**
+```json
+curl -X POST  -d'{"paymentAmount":200.00,"loan":{"loanId":1}}'   -H 'Content-Type: application/json' localhost:8080/payments 
+```
 
 ## Success Responses
 
