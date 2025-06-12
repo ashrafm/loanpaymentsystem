@@ -15,7 +15,7 @@ mvn test
 ```
 ## Running
 
-to run the application you
+to run the application::
 
 ```code
 java -jar target/lps-0.0.1-SNAPSHOT.jar
