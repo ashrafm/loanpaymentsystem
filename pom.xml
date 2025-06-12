@@ -11,7 +11,7 @@
 	<groupId>com.bancx</groupId>
 	<artifactId>lps</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>lps</name>
 	<description>Loan Payment System for Bancx</description>
 	<url/>
